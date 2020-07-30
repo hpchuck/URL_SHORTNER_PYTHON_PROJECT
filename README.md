@@ -37,6 +37,7 @@ Building a custom URL shortening service using ExpressJs and Mongodb
 ```sh
 # clone it
 git clone https://github.com/prasath123t/URL_SHORTNER_PYTHON_PROJECT.git
+#Move your directory to 
 cd URL_SHORTNER_PYTHON_PROJECT
 # Make it your own
 rm -rf .git && git init
@@ -53,6 +54,7 @@ yarn install
 # Start  server
 yarn run server
 ```
+
 
 #### Run front end
 
