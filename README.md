@@ -6,15 +6,12 @@
 
 <h4 align="center">Creating custom URL shortener With Nodejs</h4>
 <div align="center">
-  <sub>Built for College Stuff</sub>
+  <sub>Built for College Project Work</sub>
 </div>
 
 </br>
 Building a custom URL shortening service using ExpressJs and Mongodb
 
-## Architecture
-
-<img src="sketch/architecture.png" alt="architecture" />
 
 ## Technologies
 
@@ -68,7 +65,7 @@ yarn install
 yarn run start
 ```
 
-
+A project work done by Hariprasath, Pavithra, Nithya 
 
 
 ## License
