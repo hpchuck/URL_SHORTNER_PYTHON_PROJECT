@@ -6,7 +6,7 @@
 
 <h4 align="center">Creating custom URL shortener With Nodejs</h4>
 <div align="center">
-  <sub>Built with ❤︎ </sub>
+  <sub>Built for College Stuff</sub>
 </div>
 
 </br>
